@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyPortfolio](https://github.com/DorothyBeatrizDone/myPortfolio-client)
 
-- 🌱 I’m currently learning **AuthO,algorithms**
+- 🌱 I’m currently learning **AuthO**
 
 - 👨‍💻 All of my projects are available at [https://beatriz-done.com](https://beatriz-done.com)
 

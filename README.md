@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [beatriz-done-resume](https://online.publuu.com/589007/1321417))
 
-- ⚡ Fun fact **I speak three languages: Spanish, French, and English**
+- ⚡ Fun fact is that **I speak three languages: Spanish, French, and English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

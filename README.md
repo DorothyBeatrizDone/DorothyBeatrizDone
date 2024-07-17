@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://beatriz-done.com](https://beatriz-done.com)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@dbdone)
 
 - 💬 Ask me about **React, Node.js, or Python!**
 

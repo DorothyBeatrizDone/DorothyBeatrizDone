@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **19dbcd@queensu.ca**
 
-- 📄 Know about my experiences [beatriz-done-resume.pdf](beatriz-done-resume.pdf)
+- 📄 Know about my experiences [beatriz-done-resume.pdf](file:///C:/Users/dbdon/Downloads/beatriz_done_resume%20(1).pdf)
 
 - ⚡ Fun fact **I speak three languages: Spanish, French, and English**
 
